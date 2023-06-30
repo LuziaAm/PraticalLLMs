@@ -1,3 +1,0 @@
-
-API_TOKEN = "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"
-ROBERTA_AUTH = "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"
